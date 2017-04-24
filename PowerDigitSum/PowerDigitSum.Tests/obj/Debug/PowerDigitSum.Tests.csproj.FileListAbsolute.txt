@@ -1,0 +1,8 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\bin\Debug\PowerDigitSum.Tests.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\bin\Debug\PowerDigitSum.Tests.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\bin\Debug\PowerDigitSum.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\bin\Debug\PowerDigitSum.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\obj\Debug\PowerDigitSum.Tests.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\obj\Debug\PowerDigitSum.Tests.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum.Tests\obj\Debug\PowerDigitSum.Tests.pdb

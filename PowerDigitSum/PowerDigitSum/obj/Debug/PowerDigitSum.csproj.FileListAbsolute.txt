@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum\bin\Debug\PowerDigitSum.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum\bin\Debug\PowerDigitSum.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum\bin\Debug\PowerDigitSum.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum\obj\Debug\PowerDigitSum.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum\obj\Debug\PowerDigitSum.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\PowerDigitSum\PowerDigitSum\obj\Debug\PowerDigitSum.pdb
